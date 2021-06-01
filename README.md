@@ -6,4 +6,4 @@ Contém:\
   -Verificação de Grafo, se: Simples, Pseudografo, multigrafo, conexo, e Ciclo.\
   -Grau do vertice.\
   -Ordem e tamanho do grafo.\
-  -Fecho transitivo do vértice e do grafo.\
+  -Fecho transitivo do vértice e do grafo.
